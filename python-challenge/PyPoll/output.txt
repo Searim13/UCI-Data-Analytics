@@ -1,0 +1,6 @@
+Total votes: {total} 
+ Khan: {k_votes} 
+ Correy: {c_vote} 
+ Li: {l_votes} 
+ O'Tooley {o_votes} 
+ Winner: Khan

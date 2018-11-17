@@ -1,0 +1,4 @@
+Total months: {total_time} Total: {profit} 
+ Average Change: {avg_profit} 
+ Greatest Increase in profits: {max_profit} 
+ Greatest Decrease in profits {min_profit}
